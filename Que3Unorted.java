@@ -18,7 +18,7 @@ class PairSum {
     }
 }
 
-public class Que3Sorted {
+public class Que3Unorted {
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
